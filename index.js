@@ -17,3 +17,11 @@ function resta(number1,number2) {
  };
  
  resta(44,5);
+
+// multiplicación 
+ function multiplication(number1,number2) {
+    console.log(number1 + number2);
+    return number1 + number2;
+ };
+ 
+ multiplication(28,5);
