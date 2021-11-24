@@ -8,20 +8,25 @@ function suma(number1,number2) {
    return number1 + number2;
 };
 
-suma(4,5);
-
 //resta
 function resta(number1,number2) {
     console.log(number1 + number2);
     return number1 + number2;
  };
- 
- resta(44,5);
 
 // multiplicación 
  function multiplication(number1,number2) {
     console.log(number1 + number2);
     return number1 + number2;
  };
+
+ // division 
+ function division(number1,number2) {
+    console.log(number1 + number2);
+    return number1 + number2;
+ };
  
+ suma(4,5)
+ resta(100,59)
  multiplication(28,5);
+ division(1000,38);
