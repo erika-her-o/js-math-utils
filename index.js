@@ -39,5 +39,12 @@ function resta(number1,number2) {
         console.log(b + "es mayor que " + a);
      }
  }
- a(222)
- b(4)
+ a(222);
+ b(4);
+
+
+ //branch raiz-cuadrada
+ function raizCuadrada(numero) {
+    return Math.sqrt(numero)
+ }
+
