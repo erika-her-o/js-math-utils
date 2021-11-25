@@ -48,3 +48,7 @@ function resta(number1,number2) {
     return Math.sqrt(numero)
  }
 
+function calcularPerimetro(largo,ancho) {
+   const perimetro = 2 * largo + 2 * ancho;
+   return perimetro;
+}
